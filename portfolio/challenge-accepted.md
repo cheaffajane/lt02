@@ -17,6 +17,8 @@ I wanted to show what made engineering at Lamoda interesting, not through hardco
 
 I developed the editorial concept, selected six experts, commissioned the interviews and edited their stories into a single narrative, leading up to a broader conference talk on engineering challenges in e-commerce.
 
+I also wanted the article to be a starting point for exploring our existing content, so we wove links to earlier articles and talks into the engineers' stories.
+
 ### Results
 
 The article became one of our cornerstone editorial pieces. We regularly linked to it in job postings, and engineers often mentioned reading it while preparing for interviews with Lamoda.
@@ -29,7 +31,7 @@ People come to e-commerce from all sorts of fields: fintech, software developmen
 
 [Original article illustration](https://habrastorage.org/r/w1560/webt/oi/jc/uu/oijcuu2kegluanivtquvk6g6us0.png)
 
-## Excitement, satisfaction and fast feedback
+## The thrill of engineering and fast feedback
 
 [Alexander Afenov — original photograph](https://habrastorage.org/r/w1560/webt/on/oi/d5/onoid51yuvuxct8ojoe6vrwx11w.jpeg)
 
@@ -39,21 +41,21 @@ My name is Alexander Afenov. I head development for the commercial department, a
 
 Our onboarding process is designed so that developers ship new features (and sometimes entire projects) to production during their probationary period.
 
-Probationary assignments and goals are tailored to the new employee's level and individual circumstances. Even after the first three months, we continue teaching them and immersing them in the business and the specifics of our IT systems. We use automated tests to show how business processes flow, share the basics of our internal development culture through code reviews, and explain which parts of projects can be refactored and which will soon be moved into new services. Nevertheless, a truly deep understanding of how the system works doesn't come immediately.
+Goals and tasks during probation are tailored to the new employee's level and individual circumstances. Even after the first three months, we continue teaching them and immersing them in the business and the specifics of our IT systems. We use automated tests to show how business processes flow, share the basics of our internal development culture through code reviews, and explain which parts of projects can be refactored and which will soon be moved into new services. Nevertheless, a truly deep understanding of how the system works doesn't come immediately.
 
 In my opinion, you need to work here for about a year to develop that understanding.
 
-To help people get up to speed more quickly, get hands-on experience and spread knowledge within teams, we have rotating support duties ([I gave a full talk about this at TeamLeadConf](https://habr.com/ru/company/lamoda/blog/468657/)). For a week, one engineer deals with incoming issues relating to the system. When the priority tasks run out, they pick up tasks from the technical backlog.
+To help engineers get up to speed, get their hands dirty and share knowledge across the team, we have on-call rotations ([I gave a full talk about this at TeamLeadConf](https://habr.com/ru/company/lamoda/blog/468657/)). For a week, one engineer deals with incoming issues relating to the system. When the priority tasks run out, they pick up tasks from the technical backlog.
 
-For the brave, the reckless and those who want to support the system, we also have night shifts. It's an interesting challenge for anyone who wants to develop their skills quickly. At night, you can really get up close and personal with the system, because some business processes take place strictly outside normal working hours.
+For the brave, the reckless and those who want to support the system, we also have overnight on-call shifts. It's an interesting challenge for anyone who wants to develop their skills quickly. At night, you can really get up close and personal with the system, because some business processes take place strictly outside normal working hours.
 
 For example, I sit there programming something during the day, releases go out and everything is fine. Then I go on duty, and late in the evening I see that goods are being received at one of our transit warehouses and an error in the IT system is tearing a business process to pieces. In practice, this means several sales representatives are sitting at a warehouse, unable to finish their working day and go home. At that moment, you can — and should — get hands-on with the business process, fix the problem, help people and figure out how it all works.
 
-At other times, you simply don't encounter this sort of thing, and you might not encounter it for years. Add the financial incentive and the excitement, and it's actually pretty cool.
+At other times, you simply don't encounter this sort of thing, and you might not encounter it for years. Throw in the extra pay and the adrenaline, and it's actually pretty cool.
 
 **What are you working on now?**
 
-I currently have a major management challenge: bringing together and standardising all the teams working on commercial functions. We're going to tackle it in two ways: by rotating tasks among teams and by bringing in our seasoned veterans — the system architects — who will also look after the horizontal connections within and between teams.
+I currently have a major management challenge: bringing together and standardising all the teams working on commercial functions. We're going to tackle it in two ways: by rotating tasks among teams and by bringing in our old wolves — the system architects — who will also look after the horizontal connections within and between teams.
 
 For each team to become autonomous, sometimes you need to develop people, give them different tasks and let them learn new technologies. PHP developers, for example, sometimes get involved in Java and Go projects. Since 2018, everyone in my area has been working with Kafka, which has become an important part of our infrastructure, a widely adopted technology and one of the most popular ways of exchanging data between systems. ([Here's a talk](https://habr.com/ru/company/oleg-bunin/blog/445424/) about how we've implemented it.)
 
@@ -73,19 +75,19 @@ I'm Alexandra Kamzeeva. I used to work in systems integration, and three and a h
 
 **Why does a development team need an analyst?**
 
-That's the first question many developers ask. But once they've worked with a good systems analyst, they get a taste for it and start asking for analysts to be brought into every project. Developers aren't familiar with all the intricacies of business processes, and without that knowledge it's difficult to build a solution that fits the business perfectly. An analyst is there to carry out a detailed investigation before development begins, ask questions, get answers and account for everything in the specification.
+That's the first question many developers ask. But once they've worked with a good systems analyst, they get a taste for it and start asking for analysts to be brought into every project. Developers don't necessarily know the ins and outs of every business process, and without that knowledge it's difficult to build a solution that fits the business perfectly. An analyst is there to carry out a detailed investigation before development begins, ask questions, get answers and account for everything in the specification.
 
 That keeps the number of iterations and errors to a minimum, saving developers time and frustration.
 
 **What was your first serious challenge in e-commerce?**
 
-My biggest and most interesting challenge so far has been a new system for automating the process of refunding money to a customer's card. It was one of the weakest points in our system, which had been written back when Lamoda was still a startup. It involved a lot of manual operations, increasing the risk of errors. We started thinking about how to change the system, and then we got a much-needed push from the government: Federal Law No. 54 was passed.
+My biggest and most interesting challenge so far has been a new system for automating the process of refunding money to a customer's card. It was one of the weakest points in our system, which had been written back when Lamoda was still a startup. It involved a lot of manual operations, increasing the risk of errors. We started thinking about how to change the system, and then we got a little kick from the government: Russian Federal Law No. 54-FZ was passed.
 
 Under that law, all companies offering goods and services to individuals must transmit sales data to the tax authorities via a fiscal data operator, specifying exactly what was sold, when and through which intermediaries. All of that is printed on the receipt. It works the other way around, too: as well as reporting what was sold, you have to report what money was refunded for and print a receipt.
 
 We divided the project into seven phases. This meant we could focus on a specific feature in each phase and release them to production one after another. In the end, we automated everything we could in the refund process, so that correct data could be submitted to the tax authorities without unnecessary manual corrections.
 
-## Not just executing, but co-creating
+## More than a coder: a co-creator
 
 [Igor Grammatchikov — original photograph](https://habrastorage.org/r/w1560/webt/1-/v2/ys/1-v2yseemec3gslq97vcxhyrjz4.jpeg)
 
@@ -95,11 +97,11 @@ Now I feel that this is my product, and I want not only the users to like it but
 
 The tasks vary. For instance, I had to build a dropdown shopping cart on the website that would work both on pages already rewritten in the new Vue.js framework and on those still running the old Backbone.js and jQuery code. I spent more than a month working away at that task and ran into a lot of problems. But after a great deal of thinking it through together, we came up with a method, refined it, and now everyone can use it easily.
 
-We don't just deal with problems that affect lots of people. Recently, we were tackling a very specific bug that only affected one user. At my previous jobs, everyone would have just come up with a polite explanation and left it at that. Here we fix anything that isn't working the way it should.
+We don't just deal with problems that affect lots of people. Recently, we were tackling a very specific bug that only affected one user. At my previous jobs, we'd have come up with a polite excuse and moved on. Here we fix anything that isn't working the way it should.
 
 This is the first time I've really worked in an Agile environment: we have daily stand-ups and lots of meetings with the manager and designer. A developer isn't just someone who executes tasks; they're a co-creator. People genuinely listen to my opinion in meetings, rather than just expecting me to take notes and go off and code. If I say something isn't going to work and suggest redoing it, the team starts thinking about how to do it better.
 
-## User feedback and code review as drivers of development
+## Growing as an engineer through user feedback and code reviews
 
 [Viktor Barsukov — original photograph](https://habrastorage.org/r/w1560/webt/fy/tq/x0/fytqx0kutg_qawv5jedcvag4bv0.jpeg)
 
@@ -115,19 +117,19 @@ Sometimes we have small tasks; sometimes it's more like detective work, when you
 
 **What's the biggest business challenge you're tackling right now?**
 
-The warehouse development team is currently implementing another major project, Warehouse 2. Previously, we worked with one physical warehouse. Adding a second one will require significant changes to all our business processes, and therefore to the systems that automate them. Initially, the second unit will be similar to the first ([we wrote a separate article about the first one](https://habr.com/ru/company/lamoda/blog/432394/)). Eventually, however, the second warehouse will be larger, and its business processes will have a higher and more modern level of automation.
+The warehouse development team is currently implementing another major project, Warehouse 2. Previously, we worked with one physical warehouse. Adding a second one will require significant changes to all our business processes, and therefore to the systems that automate them. Initially, the second warehouse will be similar to the first ([we wrote a separate article about the first one](https://habr.com/ru/company/lamoda/blog/432394/)). Eventually, however, the second warehouse will be larger, and its business processes will have a higher and more modern level of automation.
 
 One of the tasks is synchronising data between the future systems so that their data doesn't get duplicated or conflict.
 
-I was configuring the data exchange bus based on the Camel framework. This was actually my first experience with Camel, so the task was not only to adapt the routes to accommodate the second warehouse but also to get to grips with the framework itself.
+I was configuring the data exchange bus built with Apache Camel. This was actually my first experience with Camel, so the task was not only to adapt the routes to accommodate the second warehouse but also to get to grips with the framework itself.
 
 ## Axapta in three months
 
 [Elizaveta Naumenko — original photograph](https://habrastorage.org/r/w1560/webt/ff/eu/dk/ffeudkjgkvgjkadpxzrstcundii.jpeg)
 
-I'm Elizaveta Naumenko, and for a year now I've been working as a support consultant in the support and development team of the ERP (Enterprise Resource Planning) department. Our department automates all financial reporting, accounting and the movement of goods.
+I'm Elizaveta Naumenko, and for a year now I've been working as a support consultant in the support and development team of the ERP (Enterprise Resource Planning) department. Our department automates all financial reporting, accounting and inventory movements.
 
-The system is built primarily on Axapta, with a little 1C. Axapta interacts with dozens of our internal systems because it's the source of master data for purchasing and finance. Our other platforms are constantly accessing Axapta as well, so there's a lot of integration and support work here.
+The system is built primarily on Axapta (Microsoft Dynamics AX), with a little 1C. Axapta interacts with dozens of our internal systems because it's the source of master data for purchasing and finance. Our other platforms are constantly accessing Axapta as well, so there's a lot of integration and support work here.
 
 My biggest challenge was getting up to speed quickly. I had to learn and develop very fast. During my three-month probationary period, I learned how our processes work in Axapta. I felt as though I was getting another university degree ([you can read more here about how we share knowledge within the team](https://habr.com/ru/company/oleg-bunin/blog/421687/)).
 
@@ -147,7 +149,7 @@ Of course, we do less in-house development than the tech giants, but our problem
 
 **What do you personally enjoy about your work?**
 
-Lamoda's IT department has many users: shoppers, business customers and company employees. For me, there's a particular satisfaction in seeing the results of my work when we solve their problems quickly. I gave an entire talk on this at HL++2019, where I described in detail what other challenges the e-commerce industry presents to engineers and why we enjoy them.
+Lamoda's IT department has many users: shoppers, business customers and company employees. For me, there's a particular satisfaction in seeing the results of my work when we solve their problems quickly. I gave [an entire talk on this at HighLoad++ 2019](https://www.youtube.com/watch?v=hnKkfp4U9hg) (in Russian), where I described in detail what other challenges the e-commerce industry presents to engineers and why we enjoy them.
 
 
 ---
