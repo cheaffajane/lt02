@@ -9,6 +9,22 @@ Originally published on 19 May 2020 in the Lamoda Tech corporate blog on Habr.
 
 ---
 
+### Editorial context
+
+By 2020, the engineering community already knew quite a lot about Lamoda and its technology. But the business had evolved, and many of the engineering challenges we'd previously talked about had been solved. So what was next?
+
+I wanted to show what made engineering at Lamoda interesting, not through hardcore technical stuff, but through the complexity of the business itself: physical goods, warehouses, logistics, payments and real customers.
+
+I developed the editorial concept, selected six experts, commissioned the interviews and edited their stories into a single narrative, leading up to a broader conference talk on engineering challenges in e-commerce.
+
+### Results
+
+The article became one of our cornerstone editorial pieces. We regularly linked to it in job postings, and engineers often mentioned reading it while preparing for interviews with Lamoda.
+
+**Reach:** 4,200 views on [Habr](https://habr.com/ru/companies/lamoda/articles/501716/).
+
+---
+
 People come to e-commerce from all sorts of fields: fintech, software development and telecommunications. And they soon discover that things are far from boring here, too. We spoke to people from different parts of our IT department about unexpected professional challenges, the problems they work on and opportunities for growth.
 
 [Original article illustration](https://habrastorage.org/r/w1560/webt/oi/jc/uu/oijcuu2kegluanivtquvk6g6us0.png)
