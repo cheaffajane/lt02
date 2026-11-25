@@ -33,7 +33,7 @@ People come to e-commerce from all sorts of fields: fintech, software developmen
 
 ## The thrill of engineering and fast feedback
 
-![Alexander Afenov — original photograph](https://habrastorage.org/r/w1560/webt/on/oi/d5/onoid51yuvuxct8ojoe6vrwx11w.jpeg)
+<img src="https://habrastorage.org/r/w1560/webt/on/oi/d5/onoid51yuvuxct8ojoe6vrwx11w.jpeg" alt="Alexander Afenov — original photograph" width="200">
 
 My name is Alexander Afenov. I head development for the commercial department, and I call myself a team lead of team leads. Before joining Lamoda, I worked in outsourced software development for mobile network operators. In four and a half years at Lamoda, I went from a mid-level developer to heading a development area.
 
@@ -69,7 +69,7 @@ We see when our mistakes cause problems for people in the warehouse and in deliv
 
 ## Rebuilding everything from scratch
 
-![Alexandra Kamzeeva — original photograph](https://habrastorage.org/r/w1560/webt/py/2k/lr/py2klrlq0inezj2_dlu_rpi9yhw.jpeg)
+<img src="https://habrastorage.org/r/w1560/webt/py/2k/lr/py2klrlq0inezj2_dlu_rpi9yhw.jpeg" alt="Alexandra Kamzeeva — original photograph" width="200">
 
 I'm Alexandra Kamzeeva. I used to work in systems integration, and three and a half years ago I became a systems analyst at Lamoda.
 
@@ -89,7 +89,7 @@ We divided the project into seven phases. This meant we could focus on a specifi
 
 ## More than a coder: a co-creator
 
-![Igor Grammatchikov — original photograph](https://habrastorage.org/r/w1560/webt/1-/v2/ys/1-v2yseemec3gslq97vcxhyrjz4.jpeg)
+<img src="https://habrastorage.org/r/w1560/webt/1-/v2/ys/1-v2yseemec3gslq97vcxhyrjz4.jpeg" alt="Igor Grammatchikov — original photograph" width="200">
 
 My name is Igor Grammatchikov, and I joined the online store development team a year and a half ago, coming from a large company specialising in business process automation. I'm now a frontend developer working on the Lamoda website. Before that, I developed interfaces for internal automation systems at large retail chains. It was just software development for some abstract customer.
 
@@ -103,7 +103,7 @@ This is the first time I've really worked in an Agile environment: we have daily
 
 ## Growing as an engineer through user feedback and code reviews
 
-![Viktor Barsukov — original photograph](https://habrastorage.org/r/w1560/webt/fy/tq/x0/fytqx0kutg_qawv5jedcvag4bv0.jpeg)
+<img src="https://habrastorage.org/r/w1560/webt/fy/tq/x0/fytqx0kutg_qawv5jedcvag4bv0.jpeg" alt="Viktor Barsukov — original photograph" width="200">
 
 I'm Viktor Barsukov, a developer in one of the warehouse automation teams. I've been working in the team for six months; before that, I worked in fintech and at a fiscal data operator. We're constantly talking to warehouse employees, the users of our systems, who give us useful feedback. There was nothing like that in fintech — we wrote the code and forgot about it. Then someone else tested it, and someone else deployed it.
 
@@ -125,7 +125,7 @@ I was configuring the data exchange bus built with Apache Camel. This was actual
 
 ## Axapta in three months
 
-![Elizaveta Naumenko — original photograph](https://habrastorage.org/r/w1560/webt/ff/eu/dk/ffeudkjgkvgjkadpxzrstcundii.jpeg)
+<img src="https://habrastorage.org/r/w1560/webt/ff/eu/dk/ffeudkjgkvgjkadpxzrstcundii.jpeg" alt="Elizaveta Naumenko — original photograph" width="200">
 
 I'm Elizaveta Naumenko, and for a year now I've been working as a support consultant in the support and development team of the ERP (Enterprise Resource Planning) department. Our department automates all financial reporting, accounting and inventory movements.
 
@@ -141,7 +141,7 @@ In fact, that's encouraged, because we all understand that if an error isn't fix
 
 ## Technology diversity: a zoo, but a petting zoo
 
-![Timur Nurutdinov — original photograph](https://habrastorage.org/r/w1560/webt/7j/t5/rw/7jt5rwwqqqbazy3gdipjpdrm1wk.jpeg)
+<img src="https://habrastorage.org/r/w1560/webt/7j/t5/rw/7jt5rwwqqqbazy3gdipjpdrm1wk.jpeg" alt="Timur Nurutdinov — original photograph" width="200">
 
 I'm Timur Nurutdinov, and I'm responsible for all software development at Lamoda. From my perspective, we're a large e-commerce business with an enormous number of processes. Lots of people work here, and even more use our services. To keep all of this working, we use almost every modern technology, because we have to deal with almost every IT challenge imaginable. Our [technology radar](https://habr.com/ru/company/lamoda/blog/428411/) is a real zoo, but it's a petting zoo — you can try everything out.
 
