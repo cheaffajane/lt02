@@ -29,7 +29,7 @@ The article became one of our cornerstone editorial pieces. We regularly linked 
 
 People come to e-commerce from all sorts of fields: fintech, software development and telecommunications. And they soon discover that things are far from boring here, too. We spoke to people from different parts of our IT department about unexpected professional challenges, the problems they work on and opportunities for growth.
 
-[Original article illustration](https://habrastorage.org/r/w1560/webt/oi/jc/uu/oijcuu2kegluanivtquvk6g6us0.png)
+![Original article illustration](https://habrastorage.org/r/w1560/webt/oi/jc/uu/oijcuu2kegluanivtquvk6g6us0.png)
 
 ## The thrill of engineering and fast feedback
 
@@ -156,4 +156,4 @@ Lamoda's IT department has many users: shoppers, business customers and company 
 
 [Original article in Russian](https://habr.com/ru/companies/lamoda/articles/501716/)
 
-*Original photographs are embedded from their source URLs; the opening illustration is linked to its original source.*
+*Original illustration and photographs are embedded from their source URLs.*
