@@ -13,11 +13,11 @@ Originally published on 19 May 2020 in the Lamoda Tech corporate blog on Habr.
 
 By 2020, the engineering community already knew quite a lot about Lamoda and its technology. But the business had evolved, and many of the engineering challenges we'd previously talked about had been solved. So what was next?
 
-I wanted to show what made engineering at Lamoda interesting, not through hardcore technical stuff, but through the complexity of the business itself: physical goods, warehouses, logistics, payments and real customers.
+What made these new challenges interesting wasn't necessarily the hardcore technical stuff. It was the sheer complexity of the business itself: physical goods, warehouses, logistics, payments and real customers. How do you build software that makes all of this work together?
 
-I developed the editorial concept, selected six experts, commissioned the interviews and edited their stories into a single narrative, leading up to a broader conference talk on engineering challenges in e-commerce.
+To tell that story, I developed the editorial concept, selected six experts, commissioned the interviews and brought their individual perspectives together into a single narrative.
 
-I also wanted the article to be a starting point for exploring our existing content, so we wove links to earlier articles and talks into the engineers' stories.
+The article was also meant to be a starting point for exploring our wider body of work. We wove links to earlier articles and talks into the stories wherever they naturally fitted, closing with a broader conference talk on engineering challenges in e-commerce.
 
 ### Results
 
