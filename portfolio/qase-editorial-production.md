@@ -4,7 +4,7 @@
 
 **Jane Goleva · Editorial Producer · 2026**
 
-I also designed and built an interactive presentation documenting the pilot, including its narrative, page structure, diagrams and visuals.
+I also designed and built an [interactive presentation documenting the pilot](https://htmlpreview.github.io/?https://github.com/cheaffajane/lt02/blob/master/portfolio/qase-video-production-anonymized.html), including its narrative, page structure, diagrams and visuals. [Download the standalone HTML](https://raw.githubusercontent.com/cheaffajane/lt02/master/portfolio/qase-video-production-anonymized.html).
 
 **Pilot results:** 5 source packages, 17 distinct content pieces and 41 finished video deliverables in three weeks. Production turnaround: one to two weeks, compared with previous delays of up to six months.
 
