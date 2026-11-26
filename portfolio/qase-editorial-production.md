@@ -16,7 +16,7 @@ The technical experts provided the original arguments. I owned editorial selecti
 
 ## Selected work
 
-**Original video:** [Testing in the AI Era: Two Debts You Can't Ignore — Vitaly Sharovatov](https://www.youtube.com/watch?v=7yBMAVeBv6E)
+**Original video:** [Testing in the AI Era: Two Debts You Can't Ignore](https://www.youtube.com/watch?v=7yBMAVeBv6E)
 
 Four short-form pieces developed from the original:
 
