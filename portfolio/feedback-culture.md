@@ -10,7 +10,7 @@ The talk and article later made their way into internal learning playbooks at a 
 
 [Watch my original conference talk (Russian)](https://www.youtube.com/watch?v=Eqtzj2JIJQw) · [Official TeamLead Conf talk page](https://teamleadconf.ru/2018/abstracts/3094) · [Original slides (Russian, PPTX)](https://drive.google.com/file/d/159fE6aOsZdGXaqgTb3XrYRtCCtIyNnrY/preview) · [Original Habr article (Russian)](https://habr.com/ru/companies/lamoda/articles/463099/)
 
-*English translation of my original Russian article, itself a loose transcript of my conference talk. The company details, examples and observations reflect the time of publication. Repetitive slides have been omitted; essential additional slide content is translated into text.*
+*English translation of my original Russian article, itself a loose transcript of my conference talk. The company details, examples and observations reflect the time of publication.*
 
 ---
 
@@ -323,4 +323,4 @@ So when it comes to teaching people to give feedback, I think the club wins hand
 
 [Russian original](https://habr.com/ru/companies/lamoda/articles/463099/) · [Lamoda case study](lamoda-expert-content.md)
 
-*Visual adaptation: the original Russian slides are linked above. Selected information from the conference deck is reproduced in English as text rather than as images; the original Habr article retains its illustrations. This edition does not reproduce or translate the complete slide deck.*
+*The original slides are linked above; selected additional slide content is included in English as text.*
