@@ -16,7 +16,7 @@ I led the programme and its editorial direction, supported contributors and wrot
 
 - [Challenge accepted: the problems Lamoda engineers solve](https://habr.com/ru/companies/lamoda/articles/501716/) — my interview-based article about engineering challenges across the business (May 2020).
 - [Why and how to train engineers to speak in public](https://habr.com/ru/companies/lamoda/articles/528888/) — my account of building the speaker programme (November 2020).
-- [A Thousand and One Pieces of Feedback](https://habr.com/ru/companies/lamoda/articles/463099/) — my article on developing peer-review skills, adapted from my conference talk (September 2019).
+- [A Thousand and One Pieces of Feedback — English edition](feedback-culture.md) ([Russian original](https://habr.com/ru/companies/lamoda/articles/463099/)) — my article on developing peer-review skills, adapted from my conference talk (September 2019).
 
 All three original articles are in Russian.
 
