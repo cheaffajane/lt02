@@ -5,7 +5,7 @@ Originally published on 24 November 2020 in the Lamoda Tech corporate blog on Ha
 
 [Read the original Russian article](https://habr.com/ru/companies/lamoda/articles/528888/)
 
-*Complete English translation of my original Russian article. The text reflects the programme and my perspective as of November 2020. The original illustrations are referenced in their original positions.*
+*Complete English translation of my original Russian article. The text reflects the programme and my perspective as of November 2020. English-localised adaptations of the original illustrations are embedded in their original positions.*
 
 ---
 
@@ -13,7 +13,7 @@ Hi! I'm Jane Goleva, and I've been working in developer relations at Lamoda for 
 
 If you're interested in the practical benefits that employee conference talks bring to a company — or if you'd already like to build a culture of public speaking but have no plans to hire a DevRel specialist — I think our experience will be useful to you.
 
-[Original illustration 1](https://habrastorage.org/r/w1560/webt/tt/ot/f7/ttotf72sobyxilvefel-xe2a-mc.png)
+![Three common concerns about public speaking](assets/speaker-development/01-speaker-concerns.png)
 
 ## Why companies need public speaking
 
@@ -71,7 +71,7 @@ That's how our Friday event, IT Fest, was born. A representative of each team wo
 
 To launch the first season of these events, I brought all the speakers together for three training sessions and taught them public speaking. They enjoyed it so much that they suggested making the meetings a regular thing. Together, we came up with Speakers Club. It gave us a safe space to practise public speaking regularly.
 
-[Original illustration 2](https://habrastorage.org/r/w1560/webt/rw/xh/qo/rwxhqorfrw-sikyl7gu5vlrcmz0.png)
+![Speakers Club format: any topic, no slides, ten minutes, six speakers per hour](assets/speaker-development/02-club-format.png)
 
 We agreed from the outset that the club had specific goals: we needed a safe space where novice speakers could learn public speaking and receive high-quality feedback. You can read more about how Lamoda Speakers Club worked in [this Habr article](https://habr.com/ru/companies/lamoda/articles/463099/) and watch the talk on [YouTube](https://youtu.be/Eqtzj2JIJQw).
 
@@ -79,7 +79,7 @@ We agreed from the outset that the club had specific goals: we needed a safe spa
 
 As we gained momentum, we had more and more talks. I couldn't keep up with preparing everyone. I'd have had to clone myself, but nobody had invented that technology yet :( The developers I'd taught to give feedback became my co-trainers. Now we prepare other speakers together.
 
-[Original illustration 3](https://habrastorage.org/r/w1560/webt/o0/4d/ig/o04dig9ucephxxdppbdztxgv-ta.png)
+![Programme launch timeline, July–November 2016](assets/speaker-development/03-programme-timeline.png)
 
 At this pace, we reached October, when there was still time to submit at least meetup sessions to HighLoad. By then, we had people for whom giving talks had become second nature. We submitted our talks and put forward five meetup sessions for the conference programme. We did pretty well.
 
@@ -107,7 +107,7 @@ Six months after Speakers Club started, the original group began to drift away. 
 
 We quickly realised that it takes about three to six months to develop a beginner. It's important that they have a real talk by the end of that time, something they can give at least at our internal IT Fest meetup. Otherwise, they lose motivation and leave.
 
-[Original illustration 4](https://habrastorage.org/r/w1560/webt/4t/ks/hv/4tkshvljxhb5wvgo3i1bhm2x3vo.png)
+![Three to six months of speaker development and individual coaching](assets/speaker-development/04-speaker-development.png)
 
 ### 3. Talks aren't real work!
 
@@ -124,7 +124,7 @@ It was very important to me that a culture of public speaking took root in the c
 - It's rather strange to talk about your company at conferences when you don't really know what's going on inside it. IT Fest was the first step towards sharing information between teams. People started talking about what they did. Their colleagues realised that they were surrounded by great professionals working on interesting projects.
 - Then people realised that they could talk not only about projects but also about technologies, tools they'd tried and processes they'd introduced. Nowadays, some of those Tech Talks happen without me even knowing about them. Anyone can schedule a meeting, invite their own team and neighbouring teams, and share something that might be useful to others.
 
-[Original illustration 5](https://habrastorage.org/r/w1560/webt/yb/jl/xm/ybjlxmyz8bwmqfpcf-v_xqu_4dm.png)
+![Six internal communication formats](assets/speaker-development/05-communication-formats.png)
 
 - Lamoda has a corporate onboarding programme. On top of that, we created a technical onboarding programme to introduce new hires to our technologies and departments (E-commerce, Business Process Automation, D&A and Infrastructure). Thanks to this, Speakers Club members can talk not only about their own team's achievements but also about what's happening across the company.
 - Tech Gathering: every three months, department heads bring all the tech teams together to tell them what we've done well over that period, what our plans are and what our key projects are. It gives managers a reason to speak in public, learn how to do it and, along the way, understand how difficult it is.
@@ -155,4 +155,4 @@ If someone can explain why they like working at the company (and genuinely do), 
 
 [Original article in Russian](https://habr.com/ru/companies/lamoda/articles/528888/)
 
-*Original illustrations are linked at their original positions; they have not been translated.*
+*Illustration note: the five images are English-localised adaptations of the original illustrations. The Russian originals are available in the Habr article linked above.*
