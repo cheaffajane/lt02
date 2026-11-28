@@ -9,6 +9,24 @@ Originally published on 24 November 2020 in the Lamoda Tech corporate blog on Ha
 
 ---
 
+### Editorial context
+
+When we started building Lamoda's tech brand in 2016, we had plenty of expertise in-house but hardly any content to show for it. Our engineers were solving interesting problems, yet they didn't know how to share their experience or, more importantly, why they should.
+
+I needed to figure out how to turn that expertise into a sustainable source of content without becoming a bottleneck myself.
+
+This article describes how I built a system for discovering stories, developing technical contributors, training peer coaches and making content creation part of the engineers' actual work.
+
+### Results
+
+- 20–30 conference talks annually following the launch of the program.
+- A repeatable 3–6 month development cycle for new speakers.
+- A network of trained peer coaches.
+- Talk preparation integrated into sprint planning and conference contributions recognized in performance reviews.
+- Candidates who had seen our conference talks started coming to interviews.
+
+---
+
 Hi! I'm Jane Goleva, and I've been working in developer relations at Lamoda for four years. Our process for preparing speakers is now well established and runs smoothly, but that wasn't always the case. When I first started, my suggestion that people give talks met with resistance from both developers and team leads.
 
 If you're interested in the practical benefits that employee conference talks bring to a company — or if you'd already like to build a culture of public speaking but have no plans to hire a DevRel specialist — I think our experience will be useful to you.
@@ -113,7 +131,7 @@ We quickly realized that it takes about three to six months to develop a beginne
 
 “Come on, Jane, leave us alone. We're doing actual work here. We're coding. What talks?” was something I often heard from my colleagues. To stop hearing that, I made a deal with our CTO and department heads that preparing talks would officially count as working time. We created a separate Jira project where people could log that time. Talk preparation officially became working time, accounted for in the sprint.
 
-After six months to a year, managers noticed a practical result of the talks: people who had seen them started turning up for interviews. After that, we agreed that speaking at conferences would also be recognised as a work achievement in performance reviews.
+After six months to a year, managers noticed a practical result of the talks: people who had seen them started turning up for interviews. After that, we agreed that speaking at conferences would also be recognized as a work achievement in performance reviews.
 
 The speakers also realized that giving talks was interesting. They'd spent a lot of time working away at their projects, and preparing a talk gave them an opportunity to stop and take a good look at what they'd achieved. It turned out they had something to be proud of, and that had a positive effect on their motivation.
 
@@ -152,6 +170,8 @@ If someone can put into words why they feel good working here (and they really d
 
 
 ---
+
+For an example of how I turned engineers' expertise into long-form editorial content, see [Challenge accepted: the problems Lamoda engineers solve](https://github.com/cheaffajane/lt02/blob/master/portfolio/challenge-accepted.md).
 
 [Original article in Russian](https://habr.com/ru/companies/lamoda/articles/528888/)
 
